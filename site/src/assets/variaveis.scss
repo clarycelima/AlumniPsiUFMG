@@ -1,0 +1,13 @@
+
+$primary: #c33c3c;
+//$primary: #17a2b8;;
+
+$font-size-base: .85rem !default;
+$font-family-base: 'Merriweather', serif, Sans-Serif !default;
+
+@import "@/../node_modules/bootstrap/scss/functions";
+@import "@/../node_modules/bootstrap/scss/variables";
+@import "@/../node_modules/bootstrap/scss/mixins";
+
+
+$bg-color: lighten($primary, 45);
