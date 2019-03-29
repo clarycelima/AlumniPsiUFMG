@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-16">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="ano" title="ano" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="flores-mendoza-c-e">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-371.08398" y="-271.0756"></viz:position>
+      </node>
+      <node id="alvarenga-m-a-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-111.03927" y="132.19229"></viz:position>
+      </node>
+      <node id="pinto-j-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="331.54187" y="57.295742"></viz:position>
+      </node>
+      <node id="teixeira-m-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="152.7806" y="-203.2428"></viz:position>
+      </node>
+      <node id="mucida-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.162315" y="-455.51926"></viz:position>
+      </node>
+      <node id="prado-m-a-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.60776" y="-139.63992"></viz:position>
+      </node>
+      <node id="torres-m-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.3894" y="3.6085455"></viz:position>
+      </node>
+      <node id="lima-m-e-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.18859" y="29.180933"></viz:position>
+      </node>
+      <node id="brandao-g-r">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="364.36945" y="-124.79664"></viz:position>
+      </node>
+      <node id="andrade-a-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="444.2614" y="170.65854"></viz:position>
+      </node>
+      <node id="pereira-g-b">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.13478" y="393.13565"></viz:position>
+      </node>
+      <node id="mahfoud-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="48.88618" y="-9.1810665"></viz:position>
+      </node>
+      <node id="sanchis-i-p">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.807" y="-461.25275"></viz:position>
+      </node>
+      <node id="stralen-c-j-v">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-32.15032" y="267.5555"></viz:position>
+      </node>
+      <node id="batista-c-b">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-490.41635" y="-72.652504"></viz:position>
+      </node>
+      <node id="santiago-j">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="224.98116" y="-72.878365"></viz:position>
+      </node>
+      <node id="pimenta-p">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="223.91115" y="-278.53012"></viz:position>
+      </node>
+      <node id="franco-r-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.6316" y="154.41934"></viz:position>
+      </node>
+      <node id="machado-f-v">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.71703" y="-228.27408"></viz:position>
+      </node>
+      <node id="campanario-i-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-69.833885" y="287.23514"></viz:position>
+      </node>
+      <node id="brito-m-m-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="428.3114" y="448.7883"></viz:position>
+      </node>
+      <node id="cruz-r-n">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="305.5235" y="460.39743"></viz:position>
+      </node>
+      <node id="lima-a-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.85022" y="48.978664"></viz:position>
+      </node>
+      <node id="faria-l-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-124.46682" y="-162.10242"></viz:position>
+      </node>
+      <node id="ferreira-c-m-r">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="174.33223" y="231.13419"></viz:position>
+      </node>
+      <node id="moreira-l-r">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="46.1869" y="-200.66153"></viz:position>
+      </node>
+      <node id="teixeira-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.116222" y="-326.13205"></viz:position>
+      </node>
+      <node id="andrade-c-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.17955" y="-368.3552"></viz:position>
+      </node>
+      <node id="cardoso-martins-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="125.52186" y="30.038416"></viz:position>
+      </node>
+      <node id="campos-a-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.16852" y="117.78878"></viz:position>
+      </node>
+      <node id="correa-m-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.361888" y="299.1837"></viz:position>
+      </node>
+      <node id="lele-a-j">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-431.4865" y="-88.64417"></viz:position>
+      </node>
+      <node id="costa-f-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-70.832664" y="-61.124058"></viz:position>
+      </node>
+      <node id="gaspar-y-e">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-380.3423" y="-260.90472"></viz:position>
+      </node>
+      <node id="vieira-c-e-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-454.0697" y="392.39316"></viz:position>
+      </node>
+      <node id="campos-m-e-f-g">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="285.20453" y="283.1705"></viz:position>
+      </node>
+      <node id="macedo-l-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.074535" y="222.80313"></viz:position>
+      </node>
+      <node id="generoso-c-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="140.64345" y="60.64517"></viz:position>
+      </node>
+      <node id="massara-i">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-96.504234" y="-287.50156"></viz:position>
+      </node>
+      <node id="nascimento-e">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="275.99152" y="-260.1905"></viz:position>
+      </node>
+      <node id="coutinho-a-c-a-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.103905" y="-387.5823"></viz:position>
+      </node>
+      <node id="paiva-f-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-92.74944" y="111.27444"></viz:position>
+      </node>
+      <node id="deusdedit-junior-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-152.72908" y="-293.36795"></viz:position>
+      </node>
+      <node id="silveira-a-r">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-62.3019" y="366.32864"></viz:position>
+      </node>
+      <node id="barbosa-d-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-367.71207" y="-4.326696"></viz:position>
+      </node>
+      <node id="borges-l-o">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="464.0382" y="425.87582"></viz:position>
+      </node>
+      <node id="souza-a-l-r">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-493.5673" y="-404.07693"></viz:position>
+      </node>
+      <node id="vorcaro-a-m-r">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.30487" y="-189.66132"></viz:position>
+      </node>
+      <node id="mendes-a-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="448.17548" y="-97.42014"></viz:position>
+      </node>
+      <node id="queiroz-i-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-345.95923" y="-55.762302"></viz:position>
+      </node>
+      <node id="neto-o-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.9506" y="170.1644"></viz:position>
+      </node>
+      <node id="bispo-f-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="247.10616" y="-151.27881"></viz:position>
+      </node>
+      <node id="leite-r-v">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-320.5889" y="427.2205"></viz:position>
+      </node>
+      <node id="teodoro-m-l-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-205.66765" y="-108.85453"></viz:position>
+      </node>
+      <node id="matias-n-c-f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-213.21129" y="-439.1875"></viz:position>
+      </node>
+      <node id="gomes-r-m-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-304.82315" y="-367.12717"></viz:position>
+      </node>
+      <node id="vazquez-e-a-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="485.10394" y="481.61697"></viz:position>
+      </node>
+      <node id="abreu-c-s">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="226.89693" y="-155.22388"></viz:position>
+      </node>
+      <node id="lucero-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.6894" y="-488.14908"></viz:position>
+      </node>
+      <node id="pinheiro-a-m-v">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="310.5907" y="444.50845"></viz:position>
+      </node>
+      <node id="cortez-m-t">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.90321" y="-474.02594"></viz:position>
+      </node>
+      <node id="capanema-c-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="420.5846" y="450.41763"></viz:position>
+      </node>
+      <node id="souza-m-f-g">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="153.27705" y="-81.95127"></viz:position>
+      </node>
+      <node id="santos-m-t">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-464.48853" y="44.054348"></viz:position>
+      </node>
+      <node id="arantes-b-o">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.516551" y="169.83505"></viz:position>
+      </node>
+      <node id="cirino-s-d">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="49.93568" y="486.54416"></viz:position>
+      </node>
+      <node id="castelo-branco-p-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-415.6951" y="-349.85434"></viz:position>
+      </node>
+      <node id="oliveira-a-p-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.8659563" y="-56.336613"></viz:position>
+      </node>
+      <node id="heleno-c-t">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.74433" y="288.67886"></viz:position>
+      </node>
+      <node id="viola-d-t-d">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-273.34616" y="240.27884"></viz:position>
+      </node>
+      <node id="nogueira-a-b">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-394.59793" y="-63.505863"></viz:position>
+      </node>
+      <node id="almeida-j-g-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-440.47525" y="186.88297"></viz:position>
+      </node>
+      <node id="fonseca-m-a-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.68859" y="-449.50974"></viz:position>
+      </node>
+      <node id="barros-v-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="309.5089" y="399.27463"></viz:position>
+      </node>
+      <node id="mata-c-c">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="482.9093" y="-179.30951"></viz:position>
+      </node>
+      <node id="scoralick-lempke-n-n">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-39.46712" y="467.00693"></viz:position>
+      </node>
+      <node id="resende-m-a">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-487.22253" y="-503.16516"></viz:position>
+      </node>
+      <node id="kummer-a-m">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-31.54833" y="-82.95524"></viz:position>
+      </node>
+      <node id="natale-l-l">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-279.816" y="464.7261"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="flores-mendoza-c-e" target="alvarenga-m-a-s">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="pinto-j-m" target="teixeira-m-c">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="pinto-j-m" target="mucida-a">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="prado-m-a-m" target="torres-m-a">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="lima-m-e-a" target="brandao-g-r">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="flores-mendoza-c-e" target="andrade-a-c">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="lima-m-e-a" target="pereira-g-b">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="mahfoud-m" target="sanchis-i-p">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="stralen-c-j-v" target="batista-c-b">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="santiago-j" target="pimenta-p">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="stralen-c-j-v" target="franco-r-f">
+        <attvalues>
+          <attvalue for="ano" value="2012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="prado-m-a-m" target="machado-f-v">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="pinto-j-m" target="campanario-i-s">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="pinto-j-m" target="brito-m-m-m">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="stralen-c-j-v" target="cruz-r-n">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="prado-m-a-m" target="lima-a-m">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="santiago-j" target="faria-l-f">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="santiago-j" target="ferreira-c-m-r">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="lima-m-e-a" target="moreira-l-r">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="teixeira-a" target="andrade-c-s">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="cardoso-martins-c" target="campos-a-f">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="cardoso-martins-c" target="correa-m-f">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="flores-mendoza-c-e" target="lele-a-j">
+        <attvalues>
+          <attvalue for="ano" value="2013"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="prado-m-a-m" target="costa-f-a">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="mahfoud-m" target="gaspar-y-e">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="lima-m-e-a" target="vieira-c-e-c">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="teixeira-a" target="campos-m-e-f-g">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="teixeira-a" target="macedo-l-f">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="teixeira-a" target="generoso-c-m">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="pinto-j-m" target="massara-i">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="nascimento-e" target="coutinho-a-c-a-m">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="stralen-c-j-v" target="paiva-f-s">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="lima-m-e-a" target="deusdedit-junior-m">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="stralen-c-j-v" target="silveira-a-r">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="pinto-j-m" target="barbosa-d-s">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="borges-l-o" target="souza-a-l-r">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="vorcaro-a-m-r" target="mendes-a-a">
+        <attvalues>
+          <attvalue for="ano" value="2014"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="prado-m-a-m" target="queiroz-i-s">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="neto-o-f" target="bispo-f-s">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="mahfoud-m" target="leite-r-v">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="teodoro-m-l-m" target="matias-n-c-f">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="teixeira-a" target="gomes-r-m-m">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="santiago-j" target="vazquez-e-a-a">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="cardoso-martins-c" target="abreu-c-s">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="vorcaro-a-m-r" target="lucero-a">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="pinheiro-a-m-v" target="cortez-m-t">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="vorcaro-a-m-r" target="capanema-c-a">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="neto-o-f" target="souza-m-f-g">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="flores-mendoza-c-e" target="santos-m-t">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="borges-l-o" target="arantes-b-o">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="cirino-s-d" target="castelo-branco-p-c">
+        <attvalues>
+          <attvalue for="ano" value="2015"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="nascimento-e" target="oliveira-a-p-a">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="borges-l-o" target="heleno-c-t">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="vorcaro-a-m-r" target="viola-d-t-d">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="neto-o-f" target="nogueira-a-b">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="borges-l-o" target="almeida-j-g-c">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="vorcaro-a-m-r" target="fonseca-m-a-a">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="barros-v-a" target="mata-c-c">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="nascimento-e" target="scoralick-lempke-n-n">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="nascimento-e" target="resende-m-a">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="kummer-a-m" target="natale-l-l">
+        <attvalues>
+          <attvalue for="ano" value="2016"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
