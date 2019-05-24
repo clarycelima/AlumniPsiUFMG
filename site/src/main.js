@@ -18,6 +18,10 @@ import 'echarts/lib/chart/tree'
 import '@/assets/site.scss'
 import 'bootstrap';
 
+import BootstrapVue from 'bootstrap-vue'
+
+Vue.use(BootstrapVue)
+
 Vue.config.productionTip = false
 Vue.component('v-chart', ECharts)
 

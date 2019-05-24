@@ -3,9 +3,9 @@
     <h1 class="display-4">{{titulo}}</h1>
     <p class="lead" v-if="descricaoPrimaria">{{descricaoPrimaria}}</p>
     <hr class="my-4" v-if="descricaoPrimaria && descricaoSecundaria">
-    <p v-if="descricaoSecundaria">{{descricaoSecundaria}}</p>
+    <div v-if="descricaoSecundaria" class="container text-justify"><p>{{descricaoSecundaria}}</p></div>
     <p class="lead" v-if="conheca">
-      <router-link class="btn btn-primary btn-lg" to="/conheca" role="button">Conheça o Projeto</router-link>
+      <router-link class="btn btn-primary btn-lg" to="/conheca" role="button">Saiba mais sobre o Projeto</router-link>
     </p>
   </div>
 </template>

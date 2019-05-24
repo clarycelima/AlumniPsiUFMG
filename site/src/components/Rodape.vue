@@ -1,14 +1,14 @@
 <template>
     <div class="rodape">
-        <h4>Alumni Psi UFMG</h4>
-        <p class="info">+ informações....</p>
-        <p class="contato">Contato: <a href="@mailto:admin@site.com.br">admin@site.com.br</a></p>
+        <h4>AlumniPsiUFMG</h4>
+        <p class="contato">Contato: <a href="@mailto:alumni.ufmg@gmail.com">alumni.ufmg@gmail.com</a></p>
         <div class="row justify-content-md-center">
             <div class="content col-md-auto">
                 <div>
-                    <img src="@/assets/depsi-rodape.jpg" height="80" alt="">
+                    <!--<img src="@/assets/depsi-rodape.jpg" height="80" alt="">
                     <img src="@/assets/fafich-logo.jpg" height="80" alt="">
-                    <img src="@/assets/ufmg-logo.jpg" height="80" alt="">
+                    <img src="@/assets/ufmg-logo.jpg" height="80" alt="">-->
+                    <img src="@/assets/logo-ppg-pis-ufmg.png" height="80" alt="">
                 </div>
                 <div><img src="@/assets/by-nc-sa.jpg" width="150" alt=""></div>
             </div>
@@ -29,7 +29,7 @@
         .content{
             background: white;
             border-radius: .5rem;
-            padding: 10px;
+            padding: 10px 40px;
             .info{
                 font-weight: lighter;
             }

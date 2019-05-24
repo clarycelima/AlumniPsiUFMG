@@ -1,6 +1,6 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
-        <router-link class="navbar-brand" to="/">Alumni Psi UFMG</router-link>
+        <router-link class="navbar-brand" to="/">AlumniPsiUFMG</router-link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -9,18 +9,19 @@
             <li class="nav-item">
                 <router-link class="nav-link" to="/">Página Inicial</router-link>
             </li>
+            <b-nav-item-dropdown text="Dados" right>
+                <b-dropdown-item to="/dados/publicacoes">Registros de publicação</b-dropdown-item>
+                <b-dropdown-item to="/dados/orientacoes">Registros de orientações</b-dropdown-item>
+            </b-nav-item-dropdown>
             <li class="nav-item">
-                <router-link class="nav-link" to="/publicacoes">Publicações</router-link>
+                <router-link class="nav-link" to="/resultados">Resultados</router-link>
             </li>
-            <li class="nav-item">
-                <router-link class="nav-link" to="/orientacoes">Orientações</router-link>
-            </li>
-            <li class="nav-item">
-                <router-link class="nav-link" to="/dados">Dados</router-link>
-            </li>
-            <li class="nav-item">
-                <router-link class="nav-link" to="/redes">Redes</router-link>
-            </li>
+            <b-nav-item-dropdown text="Redes Dinâmicas" right>
+                <b-dropdown-item to="/redes/artigos">Rede de artigos</b-dropdown-item>
+                <b-dropdown-item to="/redes/orientacoes">Rede de orientações</b-dropdown-item>
+                <b-dropdown-item to="/redes/por-area-concentracao">Rede por área de concentração</b-dropdown-item>
+                <b-dropdown-item to="/redes/decorrente-orientacao">Rede decorrente da orientação</b-dropdown-item>
+            </b-nav-item-dropdown>
             <li class="nav-item">
                 <router-link class="nav-link" to="/conheca">Conheça o Projeto</router-link>
             </li>

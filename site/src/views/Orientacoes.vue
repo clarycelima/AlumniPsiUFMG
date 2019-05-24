@@ -1,18 +1,15 @@
 <template>
     <div>
         <cabecalho titulo="Registros de orientações"/>
-        <div class="container-fluid mb-4">
-            <div class="card">
-                <div class="card-body">
+        <div class="container mb-4">
                     <div class="row mb-4">
                         <div class="col">
                             <b-form-input v-model="busca" type="text" placeholder="Pesquisar..." />
                         </div>
                     </div>
-                    <b-table striped hover :items="orientacoes" :fields="fields" :per-page="10" :current-page="currentPage" :filter="busca"/>
-                    <b-pagination v-model="currentPage" :total-rows="orientacoes.length" :per-page="10" size="md" />
-                </div>
-            </div>
+                    <b-table striped hover :items="orientacoes" :fields="fields" :per-page="10" :current-page="currentPage" :filter="busca" @filtered="onFiltered"/>
+                    <b-pagination v-model="currentPage" :total-rows="totalRows" :per-page="10" size="md" />
+            
         </div>
     </div>
 </template>
@@ -29,6 +26,7 @@ export default {
         return {
             busca: '',
             currentPage: 1,
+            totalRows: 0,
             orientacoes: undefined,
             fields: [
                 {
@@ -46,6 +44,13 @@ export default {
             ]
         }
     },
+    methods: {
+      onFiltered(filteredItems) {
+        // Trigger pagination to update the number of buttons/pages due to filtering
+        this.totalRows = filteredItems.length
+        this.currentPage = 1
+      }
+    },
     components: {
         Cabecalho, BTable, BPagination, BFormInput
     }, 
@@ -53,6 +58,7 @@ export default {
         try{
             const data = await axios.get('../data/orientacoes.json')
             this.orientacoes = data.data
+            this.totalRows = this.orientacoes.length
         } catch (e) {
             console.log(e)
         }

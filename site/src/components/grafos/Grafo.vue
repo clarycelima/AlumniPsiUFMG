@@ -8,27 +8,39 @@ export default {
   props: {
     data: { type: Object, default: undefined },
     labels: { type: Array, default: () => ([]) },
-    categoryField: { type: String, default: "autortipo" },
-    titulo: { type: String, default: '' }
+    legend: { type: Array, default: () => ([]) },
+    categoryField: { type: String, default: undefined },
+    titulo: { type: String, default: '' },
+    labelOnSimbolSize: {type: Number, default: 20}
   },
   data: function() {
     return {
-      graph: undefined
+      graph: undefined,
+      legendall: []
     };
   },
   mounted: function() {
     if (this.data != undefined) {
       const categoryField = this.categoryField;
+      const self = this;
       this.data.nodes.forEach(function(node) {
         node.itemStyle = null;
         node.value = node.symbolSize;
         node.symbolSize /= 1.5;
         node.label = {
           normal: {
-            show: node.symbolSize > 20
+            show: node.symbolSize > self.labelOnSimbolSize
           }
         };
-        node.category = node.attributes[categoryField];
+        if (self.categoryField !== undefined){
+          node.category = node.attributes[categoryField];
+          if (self.legend.length > self.labels.indexOf(node.attributes[categoryField])) {
+            node.category = self.legend[self.labels.indexOf(node.attributes[categoryField])]
+          }
+          if (self.legendall.indexOf(node.category) === -1){
+            self.legendall.push(node.category)
+          }
+        }
         delete node['attributes']
       });
       const option = {
@@ -42,7 +54,7 @@ export default {
         legend: [
           {
             // selectedMode: 'single',
-            data: this.labels
+            data: this.legendall
           }
         ],
         animationDuration: 1500,
@@ -54,7 +66,7 @@ export default {
             layout: "none",
             data: this.data.nodes,
             links: this.data.links,
-            categories: this.labels.map(i => ({ name: i })),
+            categories: this.labels.map(i => ({ name: this.legendall.length < this.labels.indexOf(i) !== -1 ? this.legendall[this.labels.indexOf(i)] : i })),
             roam: true,
             focusNodeAdjacency: true,
             itemStyle: {
