@@ -56,7 +56,7 @@ export default {
     }, 
     mounted: async function () {
         try{
-            const data = await axios.get('../data/orientacoes.json')
+            const data = await axios.get('/AlumniPsiUFMG/data/orientacoes.json')
             this.orientacoes = data.data
             this.totalRows = this.orientacoes.length
         } catch (e) {

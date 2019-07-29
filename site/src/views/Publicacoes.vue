@@ -72,7 +72,7 @@ export default {
     }, 
     mounted: async function () {
         try{
-            const data = await axios.get('../data/artigos.json')
+            const data = await axios.get('/AlumniPsiUFMG/data/artigos.json')
             this.publicacoes = data.data
             this.totalRows = this.publicacoes.length
         } catch (e) {
