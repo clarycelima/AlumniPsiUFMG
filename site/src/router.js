@@ -25,15 +25,31 @@ export default new Router({
       // route level code-splitting
       // this generates a separate chunk (redes.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "redes" */ './views/RedeArtigos.vue')
+      component: () => import(/* webpackChunkName: "redes" */ './views/redes/Artigos.vue')
     },
     {
-      path: '/redes/por-area-concentracao',
+      path: '/redes/artigos-fruchterman',
+      name: 'artigos-fruchterman',
+      // route level code-splitting
+      // this generates a separate chunk (artigos-fruchtermans.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "artigos-fruchtermans" */ './views/redes/ArtigosFruchterman.vue')
+    },
+    {
+      path: '/redes/area-concentracao',
       name: 'rede-por-area-concentracao',
       // route level code-splitting
       // this generates a separate chunk (redes.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "redes" */ './views/RedeAreaConcentracao.vue')
+      component: () => import(/* webpackChunkName: "redes" */ './views/redes/AreaConcentracao.vue')
+    },
+    {
+      path: '/redes/completa',
+      name: 'rede-completa',
+      // route level code-splitting
+      // this generates a separate chunk (redes.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "completa" */ './views/redes/Completa.vue')
     },
     {
       path: '/redes/orientacoes',
@@ -41,15 +57,15 @@ export default new Router({
       // route level code-splitting
       // this generates a separate chunk (redes.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "redes" */ './views/RedeOrientacoes.vue')
+      component: () => import(/* webpackChunkName: "redes" */ './views/redes/Orientacao.vue')
     },
     {
-      path: '/redes/decorrente-orientacao',
-      name: 'rede-decorrente-orientacao',
+      path: '/redes/orientando-terceiros',
+      name: 'rede-orientando-terceiros',
       // route level code-splitting
       // this generates a separate chunk (redes.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "redes" */ './views/RedeDecorrenteOrientacao.vue')
+      component: () => import(/* webpackChunkName: "redes" */ './views/redes/OrientandoTerceiros.vue')
     },
     {
       path: '/dados',
@@ -60,12 +76,28 @@ export default new Router({
       component: () => import(/* webpackChunkName: "dados" */ './views/Dados.vue')
     },
     {
+      path: '/downloads',
+      name: 'downloads',
+      // route level code-splitting
+      // this generates a separate chunk (publicacoes.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "downloads" */ './views/Downloads.vue')
+    },
+    {
       path: '/resultados',
       name: 'resultados',
       // route level code-splitting
       // this generates a separate chunk (publicacoes.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
       component: () => import(/* webpackChunkName: "dados" */ './views/Resultados.vue')
+    },
+    {
+      path: '/dados/script-lattes',
+      name: 'script-lattes',
+      // route level code-splitting
+      // this generates a separate chunk (publicacoes.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "script-lattes" */ './views/ScriptLattes.vue')
     },
     {
       path: '/dados/publicacoes',

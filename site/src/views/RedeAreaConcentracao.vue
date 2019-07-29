@@ -5,7 +5,7 @@
                 <grafo
                   :data="completo"
                   :labels="['Não Disponível', 'PSO', 'EP', 'DH']"
-                  :legend="['Não disponível', 'Psicologia Social', 'Estudos Psicanalíticos', 'Desenvolvimento Humano']"
+                  :legend="['Terceiros', 'Psicologia Social', 'Estudos Psicanalíticos', 'Desenvolvimento Humano']"
                   titulo="Rede por área de concentração"
                   category-field="área (preencher)"
                   v-if="completo"

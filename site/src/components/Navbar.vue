@@ -1,6 +1,6 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
-        <router-link class="navbar-brand" to="/">AlumniPsiUFMG</router-link>
+        <router-link class="navbar-brand" to="/">Colaboratório <em>Alumni</em>PsiUFMG</router-link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -10,18 +10,28 @@
                 <router-link class="nav-link" to="/">Página Inicial</router-link>
             </li>
             <b-nav-item-dropdown text="Dados" right>
+                <b-dropdown-item to="/dados/script-lattes">Dados obtidos através do ScriptLattes</b-dropdown-item>
                 <b-dropdown-item to="/dados/publicacoes">Registros de publicação</b-dropdown-item>
                 <b-dropdown-item to="/dados/orientacoes">Registros de orientações</b-dropdown-item>
             </b-nav-item-dropdown>
             <li class="nav-item">
+                <router-link class="nav-link" to="/downloads">Downloads</router-link>
+            </li>
+            <li class="nav-item">
                 <router-link class="nav-link" to="/resultados">Resultados</router-link>
             </li>
-            <b-nav-item-dropdown text="Redes Dinâmicas" right>
+            <b-nav-item-dropdown text="Redes" right>
                 <b-dropdown-item to="/redes/artigos">Rede de artigos</b-dropdown-item>
-                <b-dropdown-item to="/redes/orientacoes">Rede de orientações</b-dropdown-item>
-                <b-dropdown-item to="/redes/por-area-concentracao">Rede por área de concentração</b-dropdown-item>
-                <b-dropdown-item to="/redes/decorrente-orientacao">Rede decorrente da orientação</b-dropdown-item>
+                <b-dropdown-item to="/redes/artigos-fruchterman">Rede de artigos (algoritmo Fruchterman)</b-dropdown-item>
+                <b-dropdown-item to="/redes/orientacoes">Laços Orientador Orientando</b-dropdown-item>
+                <b-dropdown-item to="/redes/orientando-terceiros">Laços Orientador Orientando Terceiros</b-dropdown-item>
+                <b-dropdown-item to="/redes/area-concentracao">Rede por área de concentração</b-dropdown-item>
+                <b-dropdown-item to="/redes/completa">Rede de artigos + Orientações</b-dropdown-item>
             </b-nav-item-dropdown>
+            <!--
+            <li class="nav-item">
+                <router-link class="nav-link" to="/redes">Redes</router-link>
+            </li>-->
             <li class="nav-item">
                 <router-link class="nav-link" to="/conheca">Conheça o Projeto</router-link>
             </li>

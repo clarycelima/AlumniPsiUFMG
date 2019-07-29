@@ -1,26 +1,14 @@
 <template>
   <div>
-    <cabecalho titulo="AlumniPsiUFMG" descricao-primaria="" descricao-secundaria="TEXTO SOBRE O PROJETO" :conheca="true"/>
+    <cabecalho titulo="" descricao-primaria="Produção científica dos egressos da psicologia: Redes de colaboração e domínios científicos" descricao-secundaria="" :conheca="true"/>
     <div class="home container text-justify">
-      <h2>Grupo de pesquisa Alumni - Grupo interdisciplinar de estudos e pesquisas sobre carreira e egressos</h2>
-        
-      <p class="text-center">
-        <a href="https://alumniufmg.blogspot.com" target="blank"><img src="@/assets/alumni.png" alt="" height="80"></a>
-        <a href="http://dgp.cnpq.br/dgp/espelhogrupo/267623" target="blank"><img src="@/assets/diretorio_grupos.png" alt="" height="80"></a>
-      </p>
-      
-      <p>Alumni, termo utilizado para nomear o grupo, é a forma pluralizada de alumnus (egresso, ex-aluno), palavra de origem latina que tinha o significado de “filho que é dado a cuidado de outro”, referindo-se, em uma interpretação mais romântica, ao indivíduo que é “alimentado com conhecimento”. O grupo tem por objetivo desenvolver estudos que se organizam a partir de dois eixos: 1) pesquisas com os egressos dos Programas de Graduação e Pós-Graduação da Universidade Federal de Minas Gerais (UFMG); 2) pesquisas psicossociais sobre as carreiras profissionais e acadêmicas. O acompanhamento dos egressos, além de manter aberto o contato com este segmento, proporcionando conhecimento sobre as trajetórias, atuação e inserção no mercado, permite levantar informações para a (re)elaboração dos cursos e suas políticas educacionais, uma vez que os indicadores sobre a atuação ocupacional dos egressos são um dos novos critérios de avaliação adotado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Entende-se que se aproximar dos egressos é pesquisar sobre as suas carreiras, considerando, não obstante, o desenvolvimento de competências propiciadas pela experiência da graduação/pós-graduação, na insterseccionalidade com aspectos da cultura e da produção de subjetividades e geração de conhecimento.</p><br/>
-      <h4>Linhas de pesquisa:</h4> 
-      <ul>
-        <li>Pesquisas com os egressos</li> 
-        <li>Pesquisas psicossociais sobre as carreiras</li> 
-      </ul>
-      <p><strong>Coordenador do grupo: </strong> Dias Cirino</p>
-      <p><strong>Área predominante:</strong> Ciências Humanas; Psicologia</p>
-      <p><strong>Instituição do grupo:</strong> Universidade Federal de Minas Gerais</p>
-      <p><strong>Unidade:</strong> Faculdade de Filosofia e Ciências Humanas, Departamento de Psicologia</p>
-      <p><strong>Contato do grupo:</strong> alumni.ufmg@gmail.com</p>
-      <br/>
+      <p><em><Strong>Alumni</Strong></em> é a forma pluralizada de alumnus (egresso, ex-aluno). A palavra tem origem no Latim e tem entre suas acepções a ideia de "filho que é dado a cuidado de outro", referindo-se, em uma interpretação mais romântica, ao indivíduo que é "alimentado com conhecimento". </p>
+<p>O site tem a proposta de ser um colaboratório para a comunidade de estudiosos e grupos de pesquisa sobre egressos. </p>
+<p>No <strong>Colaboratório <em>Alumni</em>PsiUFMG</Strong> poderão ser armazenados dados de pesquisa e mapas que, por estarem em escala de grande dimensão, ilegível em publicação impressa ou em formatos de arquivo, no Colaboratório poderão ser consultados permitindo, com o mouse, localizar os clusters e atores de interesse. </p>
+<p>Outros materiais derivados de trabalhos do grupo de pesquisa <Strong><em>ALUMNI</em>UFMG</Strong>, assim como de outros grupos de estudo de Egressos dentro e fora da instituição, poderão ser armazenados e compartilhados tornando-se um repositório de dados de acesso aberto com intenção de trabalho colaborativo. </p>
+<p>Os mapas de visualização ou de clusters em grande escala, publicados em material bibliográfico, sempre esbarram na dificuldade de se visualizar os detalhes e, certamente, por estar em formato estático, impossibilita manuseio e navegação em seu conteúdo. O GitHub, a partir da ferramenta Git, permite a disponibilização e compartilhamento de materiais e dados produzidos em pesquisas, em forma de repositório. </p>
+
+
     </div>
   </div>
 </template>
