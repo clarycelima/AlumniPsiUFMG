@@ -2,11 +2,12 @@
     
     <div>
         <cabecalho titulo="Redes"/>
-        <div class="container-fluid mb-4">
+        <div class="container mb-4">
 
             <h2>Rede por Área de Concentracao</h2>
-            <img style="width: 100%" src="redes/Rede por area de concentracao.svg" alt="Rede por Área de Concentracao">
-
+            <object type="image/svg+xml" style="width: 100%" data="redes/Rede por area de concentracao.svg" ref="img">
+                Your browser does not support SVG
+            </object>
 
 
         </div>
@@ -15,12 +16,30 @@
 
 <script>
 import Cabecalho from '@/components/Cabecalho';
+import svgPanZoom from 'svg-pan-zoom'
 export default {
     name: 'Redes',
-    components: {Cabecalho}
+    components: {Cabecalho},
+    mounted: function () {
+        this.$nextTick(() => {
+            if (this.$refs.img) {
+                const img = this.$refs.img;
+                img.addEventListener('load', function(){
+                    // Will get called after embed element was loaded
+                    const pan = svgPanZoom(img, {
+                        controlIconsEnabled: true
+                    });
+                });                
+            }
+        })
+    }
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
+
+object{
+    background: lighten($primary, 48);
+}
 
 </style>
