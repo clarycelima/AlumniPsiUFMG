@@ -644,7 +644,7 @@ dx="0">38</tspan></text></g></svg>
       RADICALIZAÇÃO DA DEMOCRACIA NO BRASIL</B>. <FONT 
       color="#330066">PSICOLOGIA E SOCIEDADE (IMPRESSO)</FONT>. v. 29, p. 
       e152680, issn: 0102-7182, 2017. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/1807-0310/2017v29152680" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=ARTIMANHAS+DA+HEGEMONIA:+OBST%C3%81CULOS+%C3%80+RADICALIZA%C3%87%C3%83O+DA+DEMOCRACIA+NO+BRASIL&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=ARTIMANHAS+DA+HEGEMONIA:+OBST%C3%81CULOS+%C3%80+RADICALIZA%C3%87%C3%83O+DA+DEMOCRACIA+NO+BRASIL">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=ARTIMANHAS+DA+HEGEMONIA:+OBST%C3%81CULOS+%C3%80+RADICALIZA%C3%87%C3%83O+DA+DEMOCRACIA+NO+BRASIL">busca 
@@ -655,7 +655,7 @@ dx="0">38</tspan></text></g></svg>
       behavior: scientific production of Brazilian Social Psychology 
       (1986-2011)</B>. <FONT color="#330066">ATHENEA DIGITAL</FONT>. v. 17, p. 
       205, issn: 1578-8946, 2017. <A style="padding-right: 4px;" href="http://dx.doi.org/10.5565/rev/athenea.1785" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Collective+actions+and+political+behavior:+scientific+production+of+Brazilian+Social+Psychology+(1986-2011)&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Collective+actions+and+political+behavior:+scientific+production+of+Brazilian+Social+Psychology+(1986-2011)">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Collective+actions+and+political+behavior:+scientific+production+of+Brazilian+Social+Psychology+(1986-2011)">busca 
@@ -665,7 +665,7 @@ dx="0">38</tspan></text></g></svg>
     <TD>LUCERO, A.; VORCARO, A.. <B>Lacan leitor de Melanie Klein: o caso Dick 
       em questão</B>. <FONT color="#330066">PSICOLOGIA: TEORIA E PESQUISA (UNB. 
       IMPRESSO)</FONT>. v. 33, p. 1-8, issn: 0102-3772, 2017. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/0102.3772e3348" target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      href="http://dx.doi.org/10.1590/0102.3772e3348" target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Lacan+leitor+de+Melanie+Klein:+o+caso+Dick+em+quest%C3%A3o&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Lacan+leitor+de+Melanie+Klein:+o+caso+Dick+em+quest%C3%A3o">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Lacan+leitor+de+Melanie+Klein:+o+caso+Dick+em+quest%C3%A3o">busca 
@@ -743,8 +743,7 @@ dx="0">38</tspan></text></g></svg>
       dos conceitos na adolescência</B>. <FONT 
       color="#330066">Psicologia-Universidade de SP-USP (Impresso)</FONT>. v. 
       28, p. 432-440, issn: 1678-5177, 2017. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/0103-656420160120" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1590/0103-656420160120" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Vygotsky+com+Lacan:+considera%C3%A7%C3%B5es+sobre+a+forma%C3%A7%C3%A3o+dos+conceitos+na+adolesc%C3%AAncia&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Vygotsky+com+Lacan:+considera%C3%A7%C3%B5es+sobre+a+forma%C3%A7%C3%A3o+dos+conceitos+na+adolesc%C3%AAncia">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Vygotsky+com+Lacan:+considera%C3%A7%C3%B5es+sobre+a+forma%C3%A7%C3%A3o+dos+conceitos+na+adolesc%C3%AAncia">busca 
@@ -831,7 +830,7 @@ dx="0">38</tspan></text></g></svg>
       <B>Influências da Psicanálise neofreudiana na psicoterapia de Carl 
       Rogers</B>. <FONT color="#330066">Contextos Clínicos</FONT>. v. 9, p. 
       279-289, issn: 1983-3482, 2016. <A style="padding-right: 4px;" href="http://dx.doi.org/10.4013/ctc.2016.92.12" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Influ%C3%AAncias+da+Psican%C3%A1lise+neofreudiana+na+psicoterapia+de+Carl+Rogers&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Influ%C3%AAncias+da+Psican%C3%A1lise+neofreudiana+na+psicoterapia+de+Carl+Rogers">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Influ%C3%AAncias+da+Psican%C3%A1lise+neofreudiana+na+psicoterapia+de+Carl+Rogers">busca 
@@ -842,7 +841,7 @@ dx="0">38</tspan></text></g></svg>
       A mudança social e o lugar da ação intelectual na luta política</B>. <FONT 
       color="#330066">Estudos de Psicologia (Natal. Online)</FONT>. v. 21, p. 
       216-227, issn: 1678-4669, 2016. <A style="padding-right: 4px;" href="http://dx.doi.org/10.5935/1678-4669.20160021" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Cr%C3%ADtica,+pol%C3%ADtica+e+psicologia+social:+A+mudan%C3%A7a+social+e+o+lugar+da+a%C3%A7%C3%A3o+intelectual+na+luta+pol%C3%ADtica&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Cr%C3%ADtica,+pol%C3%ADtica+e+psicologia+social:+A+mudan%C3%A7a+social+e+o+lugar+da+a%C3%A7%C3%A3o+intelectual+na+luta+pol%C3%ADtica">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Cr%C3%ADtica,+pol%C3%ADtica+e+psicologia+social:+A+mudan%C3%A7a+social+e+o+lugar+da+a%C3%A7%C3%A3o+intelectual+na+luta+pol%C3%ADtica">busca 
@@ -910,7 +909,7 @@ dx="0">38</tspan></text></g></svg>
       UMA ANÁLISE DOCUMENTAL</B>. <FONT color="#330066">Psicologia &amp; 
       Sociedade (Online)</FONT>. v. 28, p. 396-406, issn: 1807-0310, 2016. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.1590/1807-03102016v28n2p396" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=CURSOS+DE+GEST%C3%83O+DE+RECURSOS+HUMANOS:+UMA+AN%C3%81LISE+DOCUMENTAL&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=CURSOS+DE+GEST%C3%83O+DE+RECURSOS+HUMANOS:+UMA+AN%C3%81LISE+DOCUMENTAL">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=CURSOS+DE+GEST%C3%83O+DE+RECURSOS+HUMANOS:+UMA+AN%C3%81LISE+DOCUMENTAL">busca 
@@ -940,7 +939,7 @@ dx="0">38</tspan></text></g></svg>
       contexto das tecnologias digitais: há transmissão possível?</B>. <FONT 
       color="#330066">aSEPHallus (Online)</FONT>. v. 11, p. 44, issn: 1809-709X, 
       2016. <A style="padding-right: 4px;" href="http://dx.doi.org/10.17852/1809-709x.2019v11n21p42-65" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Adolesc%C3%AAncia+e+saber+no+contexto+das+tecnologias+digitais:+h%C3%A1+transmiss%C3%A3o+poss%C3%ADvel?&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Adolesc%C3%AAncia+e+saber+no+contexto+das+tecnologias+digitais:+h%C3%A1+transmiss%C3%A3o+poss%C3%ADvel?">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Adolesc%C3%AAncia+e+saber+no+contexto+das+tecnologias+digitais:+h%C3%A1+transmiss%C3%A3o+poss%C3%ADvel?">busca 
@@ -951,7 +950,7 @@ dx="0">38</tspan></text></g></svg>
       objeto não significantizável ao significante</B>. <FONT 
       color="#330066">Revista Subjetividades</FONT>. v. 16, p. 60-70, issn: 
       2359-0769, 2016. <A style="padding-right: 4px;" href="http://dx.doi.org/10.5020/23590777.16.2.60-70" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Ang%C3%BAstia+e+constitui%C3%A7%C3%A3o+subjetiva:+do+objeto+n%C3%A3o+significantiz%C3%A1vel+ao+significante&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Ang%C3%BAstia+e+constitui%C3%A7%C3%A3o+subjetiva:+do+objeto+n%C3%A3o+significantiz%C3%A1vel+ao+significante">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Ang%C3%BAstia+e+constitui%C3%A7%C3%A3o+subjetiva:+do+objeto+n%C3%A3o+significantiz%C3%A1vel+ao+significante">busca 
@@ -1013,8 +1012,7 @@ dx="0">38</tspan></text></g></svg>
       the autistic object to its indispensability for autism clinically in 
       psychoanalysis</B>. <FONT color="#330066">Ágora ( PPGTP/UFRJ)</FONT>. v. 
       19, p. 339-356, issn: 1809-4414, 2016. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/S1516-14982016002013" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1590/S1516-14982016002013" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Harmfulness+of+the+autistic+object+to+its+indispensability+for+autism+clinically+in+psychoanalysis&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Harmfulness+of+the+autistic+object+to+its+indispensability+for+autism+clinically+in+psychoanalysis">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Harmfulness+of+the+autistic+object+to+its+indispensability+for+autism+clinically+in+psychoanalysis">busca 
@@ -1065,7 +1063,7 @@ dx="0">38</tspan></text></g></svg>
       training program for the elderly</B>. <FONT color="#330066">Revista 
       Brasileira de Geriatria e Gerontologia</FONT>. v. 19, p. 769-785, issn: 
       1981-2256, 2016. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/1809-98232016019.150144" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Development+of+a+cognitive+training+program+for+the+elderly&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Development+of+a+cognitive+training+program+for+the+elderly">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Development+of+a+cognitive+training+program+for+the+elderly">busca 
@@ -1121,7 +1119,7 @@ dx="0">38</tspan></text></g></svg>
       psicológico como estratégia de clínica ampliada na atenção básica em 
       saúde</B>. <FONT color="#330066">Contextos Clínicos</FONT>. v. 8, p. 
       141-152, issn: 1983-3482, 2015. <A style="padding-right: 4px;" href="http://dx.doi.org/10.4013/ctc.2015.82.03" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Plant%C3%A3o+psicol%C3%B3gico+como+estrat%C3%A9gia+de+cl%C3%ADnica+ampliada+na+aten%C3%A7%C3%A3o+b%C3%A1sica+em+sa%C3%BAde&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Plant%C3%A3o+psicol%C3%B3gico+como+estrat%C3%A9gia+de+cl%C3%ADnica+ampliada+na+aten%C3%A7%C3%A3o+b%C3%A1sica+em+sa%C3%BAde">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Plant%C3%A3o+psicol%C3%B3gico+como+estrat%C3%A9gia+de+cl%C3%ADnica+ampliada+na+aten%C3%A7%C3%A3o+b%C3%A1sica+em+sa%C3%BAde">busca 
@@ -1170,8 +1168,7 @@ dx="0">38</tspan></text></g></svg>
       <B>Produção de artigos em Psicodrama no Brasil: revisão sistemática 
       (1996-2014)</B>. <FONT color="#330066">Revista Brasileira de 
       Psicodrama</FONT>. v. 23, p. 16-23, issn: 2318-0498, 2015. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.15329/2318-0498.20150003" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.15329/2318-0498.20150003" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Produ%C3%A7%C3%A3o+de+artigos+em+Psicodrama+no+Brasil:+revis%C3%A3o+sistem%C3%A1tica+(1996-2014)&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Produ%C3%A7%C3%A3o+de+artigos+em+Psicodrama+no+Brasil:+revis%C3%A3o+sistem%C3%A1tica+(1996-2014)">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Produ%C3%A7%C3%A3o+de+artigos+em+Psicodrama+no+Brasil:+revis%C3%A3o+sistem%C3%A1tica+(1996-2014)">busca 
@@ -1206,8 +1203,7 @@ dx="0">38</tspan></text></g></svg>
       outras drogas para profissionais da saúde e assistência social: relato de 
       experiência</B>. <FONT color="#330066">Interface (Botucatu. 
       Online)</FONT>. v. 19, p. 00-00, issn: 1807-5762, 2015. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/1807-57622014.0607" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1590/1807-57622014.0607" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Capacita%C3%A7%C3%A3o+em+%C3%A1lcool+e+outras+drogas+para+profissionais+da+sa%C3%BAde+e+assist%C3%AAncia+social:+relato+de+experi%C3%AAncia&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Capacita%C3%A7%C3%A3o+em+%C3%A1lcool+e+outras+drogas+para+profissionais+da+sa%C3%BAde+e+assist%C3%AAncia+social:+relato+de+experi%C3%AAncia">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Capacita%C3%A7%C3%A3o+em+%C3%A1lcool+e+outras+drogas+para+profissionais+da+sa%C3%BAde+e+assist%C3%AAncia+social:+relato+de+experi%C3%AAncia">busca 
@@ -1219,7 +1215,7 @@ dx="0">38</tspan></text></g></svg>
       redes assistenciais sobre drogas: uma revisão narrativa da literatura</B>. 
       <FONT color="#330066">Ciência e Saúde Coletiva (Impresso)</FONT>. v. 20, 
       p. 395-406, issn: 1413-8123, 2015. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/1413-81232015202.20682013" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Desatando+a+trama+das+redes+assistenciais+sobre+drogas:+uma+revis%C3%A3o+narrativa+da+literatura&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Desatando+a+trama+das+redes+assistenciais+sobre+drogas:+uma+revis%C3%A3o+narrativa+da+literatura">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Desatando+a+trama+das+redes+assistenciais+sobre+drogas:+uma+revis%C3%A3o+narrativa+da+literatura">busca 
@@ -1231,7 +1227,7 @@ dx="0">38</tspan></text></g></svg>
        faculdade de Psicologia DOI - 10.5752/P.1678-9523.2014v20n2p395</B>. 
       <FONT color="#330066">Psicologia em Revista (Online)</FONT>. v. 20, p. 
       395-417, issn: 1678-9563, 2015. <A style="padding-right: 4px;" href="http://dx.doi.org/10.5752/P.1678-9523.2014v20n2p395" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Perspectivas+da+dire%C3%A7%C3%A3o+do+tratamento+em+psican%C3%A1lise+para+a+cl%C3%ADnica-escola+de+uma+faculdade+de+Psicologia+DOI+-+10.5752/P.1678-9523.2014v20n2p395&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Perspectivas+da+dire%C3%A7%C3%A3o+do+tratamento+em+psican%C3%A1lise+para+a+cl%C3%ADnica-escola+de+uma+faculdade+de+Psicologia+DOI+-+10.5752/P.1678-9523.2014v20n2p395">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Perspectivas+da+dire%C3%A7%C3%A3o+do+tratamento+em+psican%C3%A1lise+para+a+cl%C3%ADnica-escola+de+uma+faculdade+de+Psicologia+DOI+-+10.5752/P.1678-9523.2014v20n2p395">busca 
@@ -1253,7 +1249,7 @@ dx="0">38</tspan></text></g></svg>
       CIDADE DE BELO HORIZONTE</B>. <FONT color="#330066">Psicologia &amp; 
       Sociedade (Online)</FONT>. v. 27, p. 312-321, issn: 1807-0310, 2015. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.1590/1807-03102015v27n2p312" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=DESINSTITUCIONALIZA%C3%87%C3%83O+PSIQUI%C3%81TRICA:+DO+CONFINAMENTO+AO+HABITAR+NA+CIDADE+DE+BELO+HORIZONTE&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=DESINSTITUCIONALIZA%C3%87%C3%83O+PSIQUI%C3%81TRICA:+DO+CONFINAMENTO+AO+HABITAR+NA+CIDADE+DE+BELO+HORIZONTE">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=DESINSTITUCIONALIZA%C3%87%C3%83O+PSIQUI%C3%81TRICA:+DO+CONFINAMENTO+AO+HABITAR+NA+CIDADE+DE+BELO+HORIZONTE">busca 
@@ -1275,7 +1271,7 @@ dx="0">38</tspan></text></g></svg>
       Itabira-MG</B>. <FONT color="#330066">Revista Pensamento Contemporâneo em 
       Administração (UFF)</FONT>. v. 9, p. 67-85, issn: 1982-2596, 2015. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.12712/rpca.v9i3.528" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Gera%C3%A7%C3%A3o+Z:+peculiaridades+geracionais+na+cidade+de+Itabira-MG&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Gera%C3%A7%C3%A3o+Z:+peculiaridades+geracionais+na+cidade+de+Itabira-MG">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Gera%C3%A7%C3%A3o+Z:+peculiaridades+geracionais+na+cidade+de+Itabira-MG">busca 
@@ -1321,7 +1317,7 @@ dx="0">38</tspan></text></g></svg>
     <TD>LUCERO, ARIANA; VORCARO, ANGELA. <B>Os objetos e o tratamento da 
       criança autista</B>. <FONT color="#330066">Fractal: Revista de 
       Psicologia</FONT>. v. 27, p. 310-317, issn: 1984-0292, 2015. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/1984-0292/931" target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      href="http://dx.doi.org/10.1590/1984-0292/931" target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Os+objetos+e+o+tratamento+da+crian%C3%A7a+autista&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Os+objetos+e+o+tratamento+da+crian%C3%A7a+autista">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Os+objetos+e+o+tratamento+da+crian%C3%A7a+autista">busca 
@@ -1382,8 +1378,7 @@ dx="0">38</tspan></text></g></svg>
       transcultural da Workplace Deviance Scale (WDS) para o contexto 
       brasileiro</B>. <FONT color="#330066">Revista Psicologia: Organizações e 
       Trabalho</FONT>. v. 15, p. 384-396, issn: 1984-6657, 2015. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.17652/rpot/2015.4.649" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.17652/rpot/2015.4.649" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Adapta%C3%A7%C3%A3o+transcultural+da+Workplace+Deviance+Scale+(WDS)+para+o+contexto+brasileiro&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Adapta%C3%A7%C3%A3o+transcultural+da+Workplace+Deviance+Scale+(WDS)+para+o+contexto+brasileiro">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Adapta%C3%A7%C3%A3o+transcultural+da+Workplace+Deviance+Scale+(WDS)+para+o+contexto+brasileiro">busca 
@@ -1452,8 +1447,7 @@ dx="0">38</tspan></text></g></svg>
     <TD>VIOLA, D. T. D.; VORCARO. A. M. R.. <B>O problema do saber na 
       adolescência e o real da puberdade</B>. <FONT color="#330066">PSICOLOGIA 
       USP (IMPRESSO)</FONT>. v. 26, p. 62-70, issn: 0103-6564, 2015. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/0103-656420130037" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1590/0103-656420130037" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=O+problema+do+saber+na+adolesc%C3%AAncia+e+o+real+da+puberdade&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=O+problema+do+saber+na+adolesc%C3%AAncia+e+o+real+da+puberdade">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=O+problema+do+saber+na+adolesc%C3%AAncia+e+o+real+da+puberdade">busca 
@@ -1468,8 +1462,7 @@ dx="0">38</tspan></text></g></svg>
       a Atenção Compartilhada e a Teoria da Mente: Um Estudo Longitudinal</B>. 
       <FONT color="#330066">Psicologia: Reflexão e Crítica (UFRGS. 
       Impresso)</FONT>. v. 27, p. 409-414, issn: 0102-7972, 2014. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1590/1678-7153.201427222" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1590/1678-7153.201427222" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+Rela%C3%A7%C3%A3o+entre+a+Aten%C3%A7%C3%A3o+Compartilhada+e+a+Teoria+da+Mente:+Um+Estudo+Longitudinal&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+Rela%C3%A7%C3%A3o+entre+a+Aten%C3%A7%C3%A3o+Compartilhada+e+a+Teoria+da+Mente:+Um+Estudo+Longitudinal">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+Rela%C3%A7%C3%A3o+entre+a+Aten%C3%A7%C3%A3o+Compartilhada+e+a+Teoria+da+Mente:+Um+Estudo+Longitudinal">busca 
@@ -1481,7 +1474,7 @@ dx="0">38</tspan></text></g></svg>
       psychometric analysis</B>. <FONT color="#330066">Motriz : Revista de 
       Educação Física (Online)</FONT>. v. 20, p. 167-176, issn: 1980-6574, 2014. 
       <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/s1980-65742014000200006" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Assessment+of+motor+coordination+and+dexterity+of+six+years+old+children:+A+psychometric+analysis&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Assessment+of+motor+coordination+and+dexterity+of+six+years+old+children:+A+psychometric+analysis">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Assessment+of+motor+coordination+and+dexterity+of+six+years+old+children:+A+psychometric+analysis">busca 
@@ -1492,7 +1485,7 @@ dx="0">38</tspan></text></g></svg>
       responsabilité de l'adolescent en conflit avec la loi&nbsp;: un exemple de 
       traitement de l'acte</B>. <FONT color="#330066">Revue de l'enfance et de 
       l'adolescence</FONT>. v. 89, p. 177-178, issn: 2101-6046, 2014. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.3917/read.089.0177" target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      href="http://dx.doi.org/10.3917/read.089.0177" target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=La+responsabilit%C3%A9+de+l%27adolescent+en+conflit+avec+la+loi%C2%A0:+un+exemple+de+traitement+de+l%27acte&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=La+responsabilit%C3%A9+de+l%27adolescent+en+conflit+avec+la+loi%C2%A0:+un+exemple+de+traitement+de+l%27acte">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=La+responsabilit%C3%A9+de+l%27adolescent+en+conflit+avec+la+loi%C2%A0:+un+exemple+de+traitement+de+l%27acte">busca 
@@ -1529,7 +1522,7 @@ dx="0">38</tspan></text></g></svg>
       leitura interdisciplinar</B>. <FONT color="#330066">Educação em Revista 
       (UFMG. Impresso)</FONT>. v. 30, p. 161-180, issn: 0102-4698, 2014. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S0102-46982014000200008" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+viol%C3%AAncia+no+contexto+escolar:+uma+leitura+interdisciplinar&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+viol%C3%AAncia+no+contexto+escolar:+uma+leitura+interdisciplinar">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+viol%C3%AAncia+no+contexto+escolar:+uma+leitura+interdisciplinar">busca 
@@ -1586,7 +1579,7 @@ dx="0">38</tspan></text></g></svg>
       de uma nova ciência do comportamento</B>. <FONT color="#330066">Scientiae 
       Studia (USP)</FONT>. v. 12, p. 465-490, issn: 1678-3166, 2014. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1678-31662014000300004" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Desconhecimento+e+liberdade+no+caminho+de+uma+nova+ci%C3%AAncia+do+comportamento&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Desconhecimento+e+liberdade+no+caminho+de+uma+nova+ci%C3%AAncia+do+comportamento">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Desconhecimento+e+liberdade+no+caminho+de+uma+nova+ci%C3%AAncia+do+comportamento">busca 
@@ -1642,7 +1635,7 @@ dx="0">38</tspan></text></g></svg>
       the North  Regional basic attention</B>. <FONT color="#330066">Revista 
       Médica de Minas Gerais</FONT>. v. 24, p. 49-56, issn: 2238-3182, 2014. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.5935/2238-3182.2014S007" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=PET+Health/mental+health+-+crack,+alcohol,+and+other+drugs:+diagnostic+research+with+professionals+from+the+CERSAM-AD+Pampulha+and+the+North+Regional+basic+attention&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=PET+Health/mental+health+-+crack,+alcohol,+and+other+drugs:+diagnostic+research+with+professionals+from+the+CERSAM-AD+Pampulha+and+the+North+Regional+basic+attention">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=PET+Health/mental+health+-+crack,+alcohol,+and+other+drugs:+diagnostic+research+with+professionals+from+the+CERSAM-AD+Pampulha+and+the+North+Regional+basic+attention">busca 
@@ -1672,8 +1665,7 @@ dx="0">38</tspan></text></g></svg>
       TARDIVO, LEILA SALOMÃO. <B>Emergence of Primary Processes in the TAT of 
       the Parisian School in Adults With Schizophrenia</B>. <FONT color="#330066">Rorschachiana 
       (Bern)</FONT>. v. 35, p. 134-153, issn: 1192-5604, 2014. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1027/1192-5604/a000059" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1027/1192-5604/a000059" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Emergence+of+Primary+Processes+in+the+TAT+of+the+Parisian+School+in+Adults+With+Schizophrenia&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Emergence+of+Primary+Processes+in+the+TAT+of+the+Parisian+School+in+Adults+With+Schizophrenia">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Emergence+of+Primary+Processes+in+the+TAT+of+the+Parisian+School+in+Adults+With+Schizophrenia">busca 
@@ -1727,8 +1719,7 @@ dx="0">38</tspan></text></g></svg>
       cognitive, and functional performance when compared to term children of 
       preschool age</B>. <FONT color="#330066">Jornal de Pediatria 
       (Impresso)</FONT>. v. 90, p. 377-383, issn: 0021-7557, 2014. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.1016/j.jped.2013.10.005" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.1016/j.jped.2013.10.005" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Preterm+children+have+unfavorable+motor,+cognitive,+and+functional+performance+when+compared+to+term+children+of+preschool+age&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Preterm+children+have+unfavorable+motor,+cognitive,+and+functional+performance+when+compared+to+term+children+of+preschool+age">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Preterm+children+have+unfavorable+motor,+cognitive,+and+functional+performance+when+compared+to+term+children+of+preschool+age">busca 
@@ -1759,7 +1750,7 @@ dx="0">38</tspan></text></g></svg>
       de uma Escala para Avaliação do Planejamento Cognitivo</B>. <FONT color="#330066">Psicologia: 
       Reflexão e Crítica (UFRGS. Impresso)</FONT>. v. 27, p. 209-218, issn: 
       0102-7972, 2014. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/1678-7153.201427201" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Constru%C3%A7%C3%A3o+de+uma+Escala+para+Avalia%C3%A7%C3%A3o+do+Planejamento+Cognitivo&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Constru%C3%A7%C3%A3o+de+uma+Escala+para+Avalia%C3%A7%C3%A3o+do+Planejamento+Cognitivo">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Constru%C3%A7%C3%A3o+de+uma+Escala+para+Avalia%C3%A7%C3%A3o+do+Planejamento+Cognitivo">busca 
@@ -1857,7 +1848,7 @@ dx="0">38</tspan></text></g></svg>
       no contexto escolar: entre estabelecidos e outsiders</B>. <FONT color="#330066">Educacao 
       e Realidade</FONT>. v. 39, p. 201-220, issn: 2175-6236, 2014. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/s2175-62362014000100012" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Professoras+transexuais+e+travestis+no+contexto+escolar:+entre+estabelecidos+e+outsiders&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Professoras+transexuais+e+travestis+no+contexto+escolar:+entre+estabelecidos+e+outsiders">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Professoras+transexuais+e+travestis+no+contexto+escolar:+entre+estabelecidos+e+outsiders">busca 
@@ -1944,7 +1935,7 @@ dx="0">38</tspan></text></g></svg>
        inconsciente</B>. <FONT color="#330066">Ágora ( PPGTP/UFRJ)</FONT>. v. 
       16, p. 185-200, issn: 1516-1498, 2013. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1516-14982013000200001" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=O+estruturalismo+em+Jacques+Lacan:+da+apropria%C3%A7%C3%A3o+%C3%A0+subvers%C3%A3o+da+corrente+estruturalista+no+estabelecimento+de+uma+teoria+do+sujeito+do+inconsciente&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=O+estruturalismo+em+Jacques+Lacan:+da+apropria%C3%A7%C3%A3o+%C3%A0+subvers%C3%A3o+da+corrente+estruturalista+no+estabelecimento+de+uma+teoria+do+sujeito+do+inconsciente">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=O+estruturalismo+em+Jacques+Lacan:+da+apropria%C3%A7%C3%A3o+%C3%A0+subvers%C3%A3o+da+corrente+estruturalista+no+estabelecimento+de+uma+teoria+do+sujeito+do+inconsciente">busca 
@@ -1995,7 +1986,7 @@ dx="0">38</tspan></text></g></svg>
       interdisciplinar</B>. <FONT color="#330066">Ciência e Saúde Coletiva 
       (Impresso)</FONT>. v. 18, p. 3683-3693, issn: 1413-8123, 2013. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1413-81232013001200024" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Modos+de+morar+de+pessoas+com+transtorno+mental+grave+no+Brasil:+uma+avalia%C3%A7%C3%A3o+interdisciplinar&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Modos+de+morar+de+pessoas+com+transtorno+mental+grave+no+Brasil:+uma+avalia%C3%A7%C3%A3o+interdisciplinar">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Modos+de+morar+de+pessoas+com+transtorno+mental+grave+no+Brasil:+uma+avalia%C3%A7%C3%A3o+interdisciplinar">busca 
@@ -2130,7 +2121,7 @@ dx="0">38</tspan></text></g></svg>
     <TD>MASSARA, IZABEL HADDAD MARQUES. <B>Feminilidade: um detalhe</B>. <FONT 
       color="#330066">Fractal: Revista de Psicologia</FONT>. v. 25, p. 497-514, 
       issn: 1984-0292, 2013. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S1984-02922013000300006" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Feminilidade:+um+detalhe&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Feminilidade:+um+detalhe">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Feminilidade:+um+detalhe">busca 
@@ -2247,7 +2238,7 @@ dx="0">38</tspan></text></g></svg>
       Case Study</B>. <FONT color="#330066">Revista Brasileira de Psiquiatria 
       (São Paulo. 1999. Impresso)</FONT>. v. 34, p. 509-512, issn: 1516-4446, 
       2012. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1016/j.rbp.2012.04.004" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Early+Joint+Attention+Deficits+in+Autism:+Evidence+from+a+Retrospective+Case+Study&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Early+Joint+Attention+Deficits+in+Autism:+Evidence+from+a+Retrospective+Case+Study">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Early+Joint+Attention+Deficits+in+Autism:+Evidence+from+a+Retrospective+Case+Study">busca 
@@ -2266,7 +2257,7 @@ dx="0">38</tspan></text></g></svg>
       particularidade da adolescência</B>. <FONT color="#330066">Ágora ( 
       PPGTP/UFRJ)</FONT>. v. 15, p. 151-163, issn: 1516-1498, 2012. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1516-14982012000100010" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Modalidades+do+ato+na+particularidade+da+adolesc%C3%AAncia&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Modalidades+do+ato+na+particularidade+da+adolesc%C3%AAncia">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Modalidades+do+ato+na+particularidade+da+adolesc%C3%AAncia">busca 
@@ -2296,7 +2287,7 @@ dx="0">38</tspan></text></g></svg>
       Behavior Analysis Laboratories in Brazil: a pedagogical view</B>. <FONT 
       color="#330066">History of Psychology</FONT>. v. 15, p. 263-262, issn: 
       1093-4510, 2012. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1037/a0026306" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=The+Beginnings+of+Behavior+Analysis+Laboratories+in+Brazil:+a+pedagogical+view&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=The+Beginnings+of+Behavior+Analysis+Laboratories+in+Brazil:+a+pedagogical+view">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=The+Beginnings+of+Behavior+Analysis+Laboratories+in+Brazil:+a+pedagogical+view">busca 
@@ -2328,7 +2319,7 @@ dx="0">38</tspan></text></g></svg>
       Psicologia</B>. <FONT color="#330066">Psicologia &amp; Sociedade 
       (Online)</FONT>. v. 24, p. 227-239, issn: 1807-0310, 2012. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/s0102-71822012000100025" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+produ%C3%A7%C3%A3o+do+conhecimento+na+psicologia+social+brasileira:+um+estudo+descritivo+a+partir+da+Revista+Psicologia&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+produ%C3%A7%C3%A3o+do+conhecimento+na+psicologia+social+brasileira:+um+estudo+descritivo+a+partir+da+Revista+Psicologia">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+produ%C3%A7%C3%A3o+do+conhecimento+na+psicologia+social+brasileira:+um+estudo+descritivo+a+partir+da+Revista+Psicologia">busca 
@@ -2367,7 +2358,7 @@ dx="0">38</tspan></text></g></svg>
       <FONT color="#330066">Revista Latinoamericana de Psicopatologia 
       Fundamental (Impresso)</FONT>. v. 15, p. 524-539, issn: 1415-4714, 2012. 
       <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/s1415-47142012000300006" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Desinser%C3%A7%C3%A3o+social+e+habita%C3%A7%C3%A3o:+a+psican%C3%A1lise+na+reforma+psiqui%C3%A1trica+brasileira&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Desinser%C3%A7%C3%A3o+social+e+habita%C3%A7%C3%A3o:+a+psican%C3%A1lise+na+reforma+psiqui%C3%A1trica+brasileira">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Desinser%C3%A7%C3%A3o+social+e+habita%C3%A7%C3%A3o:+a+psican%C3%A1lise+na+reforma+psiqui%C3%A1trica+brasileira">busca 
@@ -2456,7 +2447,7 @@ dx="0">38</tspan></text></g></svg>
       usuárias de drogas</B>. <FONT color="#330066">Estudos de Psicologia 
       (UFRN)</FONT>. v. 17, p. 305-312, issn: 1413-294X, 2012. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1413-294X2012000200015" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+emerg%C3%AAncia+da+politiza%C3%A7%C3%A3o+da+intimidade+na+experi%C3%AAncia+de+mulheres+usu%C3%A1rias+de+drogas&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+emerg%C3%AAncia+da+politiza%C3%A7%C3%A3o+da+intimidade+na+experi%C3%AAncia+de+mulheres+usu%C3%A1rias+de+drogas">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+emerg%C3%AAncia+da+politiza%C3%A7%C3%A3o+da+intimidade+na+experi%C3%AAncia+de+mulheres+usu%C3%A1rias+de+drogas">busca 
@@ -2477,7 +2468,7 @@ dx="0">38</tspan></text></g></svg>
       universitários</B>. <FONT color="#330066">Estudos de Psicologia (PUCCAMP. 
       Impresso)</FONT>. v. 29, p. 163-171, issn: 0103-166X, 2012. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S0103-166X2012000200002" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Intelig%C3%AAncia+e+personalidade:+um+estudo+correlacional+em+uma+amostra+de+universit%C3%A1rios&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Intelig%C3%AAncia+e+personalidade:+um+estudo+correlacional+em+uma+amostra+de+universit%C3%A1rios">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Intelig%C3%AAncia+e+personalidade:+um+estudo+correlacional+em+uma+amostra+de+universit%C3%A1rios">busca 
@@ -2498,7 +2489,7 @@ dx="0">38</tspan></text></g></svg>
       alfabetização em informática na cognição de idosos</B>. <FONT color="#330066">Psicologia: 
       Reflexão e Crítica (UFRGS. Impresso)</FONT>. v. 25, p. 774-782, issn: 
       0102-7972, 2012. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S0102-79722012000400017" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Efeitos+de+um+processo+de+alfabetiza%C3%A7%C3%A3o+em+inform%C3%A1tica+na+cogni%C3%A7%C3%A3o+de+idosos&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Efeitos+de+um+processo+de+alfabetiza%C3%A7%C3%A3o+em+inform%C3%A1tica+na+cogni%C3%A7%C3%A3o+de+idosos">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Efeitos+de+um+processo+de+alfabetiza%C3%A7%C3%A3o+em+inform%C3%A1tica+na+cogni%C3%A7%C3%A3o+de+idosos">busca 
@@ -2518,8 +2509,7 @@ dx="0">38</tspan></text></g></svg>
       em Santo Antônio do Monte: degradação das condições de trabalho e saúde 
       dos pirotecnistas</B>. <FONT color="#330066">Cadernos de Psicologia Social 
       do Trabalho</FONT>. v. 15, p. 135, issn: 1981-0490, 2012. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.11606/issn.1981-0490.v15i1p135-152" target="_blank"><IMG 
-      src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
+      href="http://dx.doi.org/10.11606/issn.1981-0490.v15i1p135-152" target="_blank"><IMG img src="@/assets/ico_doi.gif" border="0"/></A><BR/><FONT size="-1">      
           [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Os+bastidores+da+produ%C3%A7%C3%A3o+de+fogos+de+artif%C3%ADcio+em+Santo+Ant%C3%B4nio+do+Monte:+degrada%C3%A7%C3%A3o+das+condi%C3%A7%C3%B5es+de+trabalho+e+sa%C3%BAde+dos+pirotecnistas&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Os+bastidores+da+produ%C3%A7%C3%A3o+de+fogos+de+artif%C3%ADcio+em+Santo+Ant%C3%B4nio+do+Monte:+degrada%C3%A7%C3%A3o+das+condi%C3%A7%C3%B5es+de+trabalho+e+sa%C3%BAde+dos+pirotecnistas">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Os+bastidores+da+produ%C3%A7%C3%A3o+de+fogos+de+artif%C3%ADcio+em+Santo+Ant%C3%B4nio+do+Monte:+degrada%C3%A7%C3%A3o+das+condi%C3%A7%C3%B5es+de+trabalho+e+sa%C3%BAde+dos+pirotecnistas">busca 
@@ -2593,7 +2583,7 @@ dx="0">38</tspan></text></g></svg>
       gramas</B>. <FONT color="#330066">Psicologia: Reflexão e Crítica (UFRGS. 
       Impresso)</FONT>. v. 24, p. 630-639, issn: 0102-7972, 2011. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/s0102-79722011000400002" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Aspectos+neuropsicol%C3%B3gico+e+neurol%C3%B3gico+de+crian%C3%A7as+nascidas+prematuras+e+com+peso+inferior+a+1.500+gramas&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Aspectos+neuropsicol%C3%B3gico+e+neurol%C3%B3gico+de+crian%C3%A7as+nascidas+prematuras+e+com+peso+inferior+a+1.500+gramas">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Aspectos+neuropsicol%C3%B3gico+e+neurol%C3%B3gico+de+crian%C3%A7as+nascidas+prematuras+e+com+peso+inferior+a+1.500+gramas">busca 
@@ -2651,7 +2641,7 @@ dx="0">38</tspan></text></g></svg>
       décadas de 1930 e 1940</B>. <FONT color="#330066">Psicologia: Teoria e 
       Pesquisa (UnB. Impresso)</FONT>. v. 27, p. 545-554, issn: 0102-3772, 2011. 
       <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S0102-37722011000400020" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Percal%C3%A7os+na+hist%C3%B3ria+da+ci%C3%AAncia:+B.+F.+Skinner+e+a+aceita%C3%A7%C3%A3o+inicial+da+An%C3%A1lise+Experimental+do+comportamento+entre+as+d%C3%A9cadas+de+1930+e+1940&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Percal%C3%A7os+na+hist%C3%B3ria+da+ci%C3%AAncia:+B.+F.+Skinner+e+a+aceita%C3%A7%C3%A3o+inicial+da+An%C3%A1lise+Experimental+do+comportamento+entre+as+d%C3%A9cadas+de+1930+e+1940">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Percal%C3%A7os+na+hist%C3%B3ria+da+ci%C3%AAncia:+B.+F.+Skinner+e+a+aceita%C3%A7%C3%A3o+inicial+da+An%C3%A1lise+Experimental+do+comportamento+entre+as+d%C3%A9cadas+de+1930+e+1940">busca 
@@ -2681,7 +2671,7 @@ dx="0">38</tspan></text></g></svg>
       estado de  Minas Gerais</B>. <FONT color="#330066">Saúde e Sociedade (USP. 
       Impresso)</FONT>. v. 20, p. 390-397, issn: 0104-1290, 2011. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/s0104-12902011000200011" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=An%C3%A1lise+Pluridisciplinar+das+Situa%C3%A7%C3%B5es+de+Trabalho:+para+al%C3%A9m+da+avalia%C3%A7%C3%A3o+de+desempenho+dos+trabalhadores+do+setor+de+sa%C3%BAde+p%C3%BAblica+no+estado+de+Minas+Gerais&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=An%C3%A1lise+Pluridisciplinar+das+Situa%C3%A7%C3%B5es+de+Trabalho:+para+al%C3%A9m+da+avalia%C3%A7%C3%A3o+de+desempenho+dos+trabalhadores+do+setor+de+sa%C3%BAde+p%C3%BAblica+no+estado+de+Minas+Gerais">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=An%C3%A1lise+Pluridisciplinar+das+Situa%C3%A7%C3%B5es+de+Trabalho:+para+al%C3%A9m+da+avalia%C3%A7%C3%A3o+de+desempenho+dos+trabalhadores+do+setor+de+sa%C3%BAde+p%C3%BAblica+no+estado+de+Minas+Gerais">busca 
@@ -2797,7 +2787,7 @@ dx="0">38</tspan></text></g></svg>
       política</B>. <FONT color="#330066">Sociedade e Estado (UnB. 
       Impresso)</FONT>. v. 26, p. 685-720, issn: 0102-6992, 2011. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S0102-69922011000300013" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Estrat%C3%A9gia+de+articula%C3%A7%C3%A3o+e+estrat%C3%A9gia+de+alian%C3%A7a:+possibilidades+para+a+luta+pol%C3%ADtica&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Estrat%C3%A9gia+de+articula%C3%A7%C3%A3o+e+estrat%C3%A9gia+de+alian%C3%A7a:+possibilidades+para+a+luta+pol%C3%ADtica">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Estrat%C3%A9gia+de+articula%C3%A7%C3%A3o+e+estrat%C3%A9gia+de+alian%C3%A7a:+possibilidades+para+a+luta+pol%C3%ADtica">busca 
@@ -2872,7 +2862,7 @@ dx="0">38</tspan></text></g></svg>
       e trabalho: o caso de um agente de visitação</B>. <FONT 
       color="#330066">Cadernos de Psicologia Social do Trabalho</FONT>. v. 14, 
       p. 145, issn: 1981-0490, 2011. <A style="padding-right: 4px;" href="http://dx.doi.org/10.11606/issn.1981-0490.v14i1p145-154" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Transtornos+mentais+e+trabalho:+o+caso+de+um+agente+de+visita%C3%A7%C3%A3o&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Transtornos+mentais+e+trabalho:+o+caso+de+um+agente+de+visita%C3%A7%C3%A3o">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Transtornos+mentais+e+trabalho:+o+caso+de+um+agente+de+visita%C3%A7%C3%A3o">busca 
@@ -2883,7 +2873,7 @@ dx="0">38</tspan></text></g></svg>
       seminário a angústia de Jacques Lacan</B>. <FONT color="#330066">Ágora ( 
       PPGTP/UFRJ)</FONT>. v. 14, p. 77-93, issn: 1516-1498, 2011. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1516-14982011000100006" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+verdade+e+o+engodo+do+desejo+na+leitura+do+semin%C3%A1rio+a+ang%C3%BAstia+de+Jacques+Lacan&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+verdade+e+o+engodo+do+desejo+na+leitura+do+semin%C3%A1rio+a+ang%C3%BAstia+de+Jacques+Lacan">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+verdade+e+o+engodo+do+desejo+na+leitura+do+semin%C3%A1rio+a+ang%C3%BAstia+de+Jacques+Lacan">busca 
@@ -2927,7 +2917,7 @@ dx="0">38</tspan></text></g></svg>
       dimensional?</B>. <FONT color="#330066">Estudos de Psicologia 
       (Natal)</FONT>. v. 15, p. 17-24, issn: 1413-294X, 2010. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S1413-294X2010000100003" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Transtorno+do+D%C3%A9ficit+de+Aten%C3%A7%C3%A3o/Hiperatividade:+o+que+nos+informa+a+investiga%C3%A7%C3%A3o+dimensional?&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Transtorno+do+D%C3%A9ficit+de+Aten%C3%A7%C3%A3o/Hiperatividade:+o+que+nos+informa+a+investiga%C3%A7%C3%A3o+dimensional?">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Transtorno+do+D%C3%A9ficit+de+Aten%C3%A7%C3%A3o/Hiperatividade:+o+que+nos+informa+a+investiga%C3%A7%C3%A3o+dimensional?">busca 
@@ -3012,7 +3002,7 @@ dx="0">38</tspan></text></g></svg>
       recepção do behaviorismo radical</B>. <FONT color="#330066">Psicologia: 
       Ciência e Profissão (Impresso)</FONT>. v. 30, p. 478-491, issn: 1414-9893, 
       2010. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/s1414-98932010000300004" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Poss%C3%ADveis+rela%C3%A7%C3%B5es+entre+o+contexto+hist%C3%B3rico+e+a+recep%C3%A7%C3%A3o+do+behaviorismo+radical&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Poss%C3%ADveis+rela%C3%A7%C3%B5es+entre+o+contexto+hist%C3%B3rico+e+a+recep%C3%A7%C3%A3o+do+behaviorismo+radical">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Poss%C3%ADveis+rela%C3%A7%C3%B5es+entre+o+contexto+hist%C3%B3rico+e+a+recep%C3%A7%C3%A3o+do+behaviorismo+radical">busca 
@@ -3126,7 +3116,7 @@ dx="0">38</tspan></text></g></svg>
       10.5752/P.1678-9563.2009v15n3p120</B>. <FONT color="#330066">Psicologia em 
       Revista (Online)</FONT>. v. 15, p. 120-139, issn: 1678-9563, 2010. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.5752/P.1678-9563.2009v15n3p120" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Escolas+de+tempo+integral+e+atividades+extracurriculares:+universos+%C3%A0+espera+da+Psicologia+brasileira+DOI+10.5752/P.1678-9563.2009v15n3p120&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Escolas+de+tempo+integral+e+atividades+extracurriculares:+universos+%C3%A0+espera+da+Psicologia+brasileira+DOI+10.5752/P.1678-9563.2009v15n3p120">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Escolas+de+tempo+integral+e+atividades+extracurriculares:+universos+%C3%A0+espera+da+Psicologia+brasileira+DOI+10.5752/P.1678-9563.2009v15n3p120">busca 
@@ -3137,7 +3127,7 @@ dx="0">38</tspan></text></g></svg>
       formal para o  desenvolvimento infantil e adolescente: uma revisão de 
       literatura</B>. <FONT color="#330066">Interação em Psicologia 
       (Online)</FONT>. v. 14, p. 93-102, issn: 1981-8076, 2010. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/10.5380/psi.v14i1.10347" target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      href="http://dx.doi.org/10.5380/psi.v14i1.10347" target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+import%C3%A2ncia+de+pol%C3%ADticas+p%C3%BAblicas+al%C3%A9m+da+escola+formal+para+o+desenvolvimento+infantil+e+adolescente:+uma+revis%C3%A3o+de+literatura&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+import%C3%A2ncia+de+pol%C3%ADticas+p%C3%BAblicas+al%C3%A9m+da+escola+formal+para+o+desenvolvimento+infantil+e+adolescente:+uma+revis%C3%A3o+de+literatura">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+import%C3%A2ncia+de+pol%C3%ADticas+p%C3%BAblicas+al%C3%A9m+da+escola+formal+para+o+desenvolvimento+infantil+e+adolescente:+uma+revis%C3%A3o+de+literatura">busca 
@@ -3277,7 +3267,7 @@ dx="0">38</tspan></text></g></svg>
       color="#330066">Jornal Brasileiro de Psiquiatria (UFRJ. Impresso)</FONT>. 
       v. 58, p. 258-266, issn: 0047-2085, 2009. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/s0047-20852009000400007" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Evolu%C3%A7%C3%A3o+do+DSM+quanto+ao+crit%C3%A9rio+categorial+de+diagn%C3%B3stico+para+o+dist%C3%BArbio+da+personalidade+antissocial&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Evolu%C3%A7%C3%A3o+do+DSM+quanto+ao+crit%C3%A9rio+categorial+de+diagn%C3%B3stico+para+o+dist%C3%BArbio+da+personalidade+antissocial">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Evolu%C3%A7%C3%A3o+do+DSM+quanto+ao+crit%C3%A9rio+categorial+de+diagn%C3%B3stico+para+o+dist%C3%BArbio+da+personalidade+antissocial">busca 
@@ -3379,7 +3369,7 @@ dx="0">38</tspan></text></g></svg>
     <TD>LUCERO, A. <B>A noção de das Ding em Jacques Lacan</B>. <FONT color="#330066">Psicologia 
       Clínica (PUCRJ. Impresso)</FONT>. v. 21, p. 271-283, issn: 0103-5665, 
       2009. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S0103-56652009000200002" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+no%C3%A7%C3%A3o+de+das+Ding+em+Jacques+Lacan&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+no%C3%A7%C3%A3o+de+das+Ding+em+Jacques+Lacan">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+no%C3%A7%C3%A3o+de+das+Ding+em+Jacques+Lacan">busca 
@@ -3524,7 +3514,7 @@ dx="0">38</tspan></text></g></svg>
       10.5752/P.1678-9563.2009v15n1p177</B>. <FONT color="#330066">Psicologia em 
       Revista (Online)</FONT>. v. 15, p. 177-195, issn: 1678-9563, 2009. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.5752/P.1678-9563.2009v15n1p177" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=H%C3%A1+lugar+para+sublima%C3%A7%C3%A3o+no+la%C3%A7o+social+contempor%C3%A2neo?+DOI+10.5752/P.1678-9563.2009v15n1p177&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=H%C3%A1+lugar+para+sublima%C3%A7%C3%A3o+no+la%C3%A7o+social+contempor%C3%A2neo?+DOI+10.5752/P.1678-9563.2009v15n1p177">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=H%C3%A1+lugar+para+sublima%C3%A7%C3%A3o+no+la%C3%A7o+social+contempor%C3%A2neo?+DOI+10.5752/P.1678-9563.2009v15n1p177">busca 
@@ -3536,7 +3526,7 @@ dx="0">38</tspan></text></g></svg>
       perícia judicial</B>. <FONT color="#330066">Revista Brasileira de Saúde 
       Ocupacional</FONT>. v. 34, p. 150-162, issn: 0303-7657, 2009. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/S0303-76572009000200006" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=O+nexo+causal+entre+transtorno+de+estresse+p%C3%B3s-traum%C3%A1tico+e+trabalho:+controv%C3%A9rsias+acerca+do+laudo+de+uma+per%C3%ADcia+judicial&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=O+nexo+causal+entre+transtorno+de+estresse+p%C3%B3s-traum%C3%A1tico+e+trabalho:+controv%C3%A9rsias+acerca+do+laudo+de+uma+per%C3%ADcia+judicial">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=O+nexo+causal+entre+transtorno+de+estresse+p%C3%B3s-traum%C3%A1tico+e+trabalho:+controv%C3%A9rsias+acerca+do+laudo+de+uma+per%C3%ADcia+judicial">busca 
@@ -3674,7 +3664,7 @@ dx="0">38</tspan></text></g></svg>
       color="#330066">Psicologia: Teoria e Pesquisa (UnB. Impresso)</FONT>. v. 
       24, p. 375-385, issn: 0102-3772, 2008. <A style="padding-right: 4px;" 
       href="http://dx.doi.org/10.1590/s0102-37722008000300015" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Do+mecanicismo+ao+selecionismo:+uma+breve+contextualiza%C3%A7%C3%A3o+da+transi%C3%A7%C3%A3o+do+behaviorismo+radical&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Do+mecanicismo+ao+selecionismo:+uma+breve+contextualiza%C3%A7%C3%A3o+da+transi%C3%A7%C3%A3o+do+behaviorismo+radical">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Do+mecanicismo+ao+selecionismo:+uma+breve+contextualiza%C3%A7%C3%A3o+da+transi%C3%A7%C3%A3o+do+behaviorismo+radical">busca 
@@ -3686,7 +3676,7 @@ dx="0">38</tspan></text></g></svg>
       Checklist-Revised [PCL-R] in a Brazilian prisoner sample</B>. <FONT color="#330066">Personality 
       and Individual Differences</FONT>. v. 45, p. 584-590, issn: 0191-8869, 
       2008. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1016/j.paid.2008.06.016" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Factor+structure+and+behavioural+correlates+of+the+Psychopathy+Checklist-Revised+[PCL-R]+in+a+Brazilian+prisoner+sample&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Factor+structure+and+behavioural+correlates+of+the+Psychopathy+Checklist-Revised+[PCL-R]+in+a+Brazilian+prisoner+sample">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Factor+structure+and+behavioural+correlates+of+the+Psychopathy+Checklist-Revised+[PCL-R]+in+a+Brazilian+prisoner+sample">busca 
@@ -4258,7 +4248,7 @@ dx="0">38</tspan></text></g></svg>
       Responses to Rorschach?s <I>Psychodiagnostis </I>in Brazil</B>. <FONT 
       color="#330066">Rorschachiana (Bern)</FONT>. v. 28, p. 81-99, issn: 
       1192-5604, 2006. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1027/1192-5604.28.1.81" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Perception+of+Reality+and+Norm:+A+Study+of+the+Popular+Responses+to+Rorschach?s+%3Ci%3EPsychodiagnostis+%3C/i%3Ein+Brazil&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Perception+of+Reality+and+Norm:+A+Study+of+the+Popular+Responses+to+Rorschach?s+%3Ci%3EPsychodiagnostis+%3C/i%3Ein+Brazil">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Perception+of+Reality+and+Norm:+A+Study+of+the+Popular+Responses+to+Rorschach?s+%3Ci%3EPsychodiagnostis+%3C/i%3Ein+Brazil">busca 
@@ -4385,7 +4375,7 @@ dx="0">38</tspan></text></g></svg>
       da consciência</B>. <FONT color="#330066">Revista Brasileira de 
       Linguistica Aplicada</FONT>. v. 5, p. 253-290, issn: 1984-6398, 2005. <A 
       style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S1984-63982005000200011" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=A+rela%C3%A7%C3%A3o+cogni%C3%A7%C3%A3o+e+linguagem+e+o+papel+da+consci%C3%AAncia&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=A+rela%C3%A7%C3%A3o+cogni%C3%A7%C3%A3o+e+linguagem+e+o+papel+da+consci%C3%AAncia">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=A+rela%C3%A7%C3%A3o+cogni%C3%A7%C3%A3o+e+linguagem+e+o+papel+da+consci%C3%AAncia">busca 
@@ -4681,7 +4671,7 @@ dx="0">38</tspan></text></g></svg>
       espaços de exercício da cidadania dos usuários de drogas</B>. <FONT color="#330066">Psicologia: 
       Ciência e Profissão (Impresso)</FONT>. v. 21, p. 2-15, issn: 1414-9893, 
       2001. <A style="padding-right: 4px;" href="http://dx.doi.org/10.1590/S1414-98932001000400002" 
-      target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Os+programas+de+redu%C3%A7%C3%A3o+de+danos+como+espa%C3%A7os+de+exerc%C3%ADcio+da+cidadania+dos+usu%C3%A1rios+de+drogas&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Os+programas+de+redu%C3%A7%C3%A3o+de+danos+como+espa%C3%A7os+de+exerc%C3%ADcio+da+cidadania+dos+usu%C3%A1rios+de+drogas">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Os+programas+de+redu%C3%A7%C3%A3o+de+danos+como+espa%C3%A7os+de+exerc%C3%ADcio+da+cidadania+dos+usu%C3%A1rios+de+drogas">busca 
@@ -5004,7 +4994,7 @@ dx="0">38</tspan></text></g></svg>
     <TD>2. &nbsp;</TD>
     <TD>MUCIDA, Angela. <B>Mal-estar na Globalização</B>. <FONT color="#330066">Psique</FONT>. 
       v. 14, p. 68-78, issn: 1415-5044, 1993. <A style="padding-right: 4px;" 
-      href="http://dx.doi.org/1415-5044" target="_blank"><IMG src="@/assets/ico_doi.gif" 
+      href="http://dx.doi.org/1415-5044" target="_blank"><img src="@/assets/ico_doi.gif" 
       border="0"/></A><BR/><FONT size="-1">          [ <A href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Mal-estar+na+Globaliza%C3%A7%C3%A3o&amp;btnG=Search">citações 
       Google Scholar</A> |            <A href="http://academic.research.microsoft.com/Search?query=Mal-estar+na+Globaliza%C3%A7%C3%A3o">citações 
       Microsoft Acadêmico</A> |            <A href="http://www.google.com/search?btnG=Google+Search&amp;q=Mal-estar+na+Globaliza%C3%A7%C3%A3o">busca 
