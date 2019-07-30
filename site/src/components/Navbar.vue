@@ -26,6 +26,7 @@
                 <b-dropdown-item to="/redes/orientacoes">Laços Orientador Orientando</b-dropdown-item>
                 <b-dropdown-item to="/redes/orientando-terceiros">Laços Orientador Orientando Terceiros</b-dropdown-item>
                 <b-dropdown-item to="/redes/area-concentracao">Rede por área de concentração</b-dropdown-item>
+                <b-dropdown-item to="/redes/area-concentracao-force-atlas-2">Rede por área de concentração (Algoritmo Force Atlas 2)</b-dropdown-item>
                 <b-dropdown-item to="/redes/completa">Rede de artigos + Orientações</b-dropdown-item>
             </b-nav-item-dropdown>
             <!--

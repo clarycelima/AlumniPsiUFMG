@@ -44,6 +44,14 @@ export default new Router({
       component: () => import(/* webpackChunkName: "redes" */ './views/redes/AreaConcentracao.vue')
     },
     {
+      path: '/redes/area-concentracao-force-atlas-2',
+      name: 'rede-por-area-concentracao-force-atlas-2',
+      // route level code-splitting
+      // this generates a separate chunk (redes.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "redes" */ './views/redes/AreaConcentracaoForceAtlas2.vue')
+    },
+    {
       path: '/redes/completa',
       name: 'rede-completa',
       // route level code-splitting
