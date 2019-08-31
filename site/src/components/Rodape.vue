@@ -1,7 +1,9 @@
 <template>
     <div class="rodape">
-        <h4>AlumniPsiUFMG</h4>
-        <p class="contato">Contato: <a href="@mailto:alumni.ufmg@gmail.com">alumni.ufmg@gmail.com</a></p>
+        <h4>Colaboratório <strong><em>AlumniPsiUFMG</em></strong></h4>
+        <p class="contato">Contato: <a href="@mailto:clarycelima@gmail.com">Maria Clarice Lima Batista &lt;clarycelima@gmail.com&gt;</a></p>
+        <p class="contato">Grupo de Pesquisa: <a href="@mailto:alumni.ufmg@gmail.com">alumni.ufmg@gmail.com</a></p>
+        <p class="contato">Webiste: <a href="@mailto:tales.info@gmail.com">Tales Moreira &lt;tales.info@gmail.com&gt;</a></p>
         <div class="row justify-content-md-center">
             <div class="content col-md-auto">
                 <div>

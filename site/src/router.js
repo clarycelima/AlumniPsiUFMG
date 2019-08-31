@@ -92,6 +92,14 @@ export default new Router({
       component: () => import(/* webpackChunkName: "downloads" */ './views/Downloads.vue')
     },
     {
+      path: '/artigos',
+      name: 'artigos',
+      // route level code-splitting
+      // this generates a separate chunk (publicacoes.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import(/* webpackChunkName: "artigos" */ './views/Artigos.vue')
+    },
+    {
       path: '/resultados',
       name: 'resultados',
       // route level code-splitting
