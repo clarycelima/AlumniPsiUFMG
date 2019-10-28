@@ -3,7 +3,7 @@
     <h1 class="display-4"><span v-if="!titulo">Colaboratório <em>Alumni</em>PsiUFMG</span><span v-else>{{titulo}}</span></h1>
     <p class="lead" v-if="descricaoPrimaria">{{descricaoPrimaria}}</p>
     <hr class="my-4" v-if="descricaoPrimaria && descricaoSecundaria">
-    <div v-if="descricaoSecundaria" class="container text-justify"><p>{{descricaoSecundaria}}</p></div>
+    <div v-if="descricaoSecundaria" class="container-fluid text-justify"><p>{{descricaoSecundaria}}</p></div>
     <p class="lead" v-if="conheca">
       <router-link class="btn btn-primary btn-lg" to="/conheca" role="button">Saiba mais sobre o Grupo de Pesquisa</router-link>
     </p>

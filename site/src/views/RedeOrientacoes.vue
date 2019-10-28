@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="Redes de orientações"/>
-    <div class="container mb-5">
+    <div class="container-fluid mb-5">
                 <grafo
                   :data="completo"
                   titulo="Rede de orientações"

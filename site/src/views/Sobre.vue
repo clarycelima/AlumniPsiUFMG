@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="Sobre o grupo de pesquisa"></cabecalho>
-    <div class="container text-justify mb-4">
+    <div class="container-fluid text-justify mb-4">
         <h2><em>Alumni</em> - Grupo interdisciplinar de estudos e pesquisas sobre carreira e Egressos</h2>
       <p class="text-center">
         <a href="https://alumniufmg.blogspot.com" target="blank"><img src="@/assets/alumni.png" alt="" height="80"></a>

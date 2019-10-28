@@ -2,7 +2,7 @@
     
     <div>
         <cabecalho titulo="Redes"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
 
 
             <h2>Rede por área de concentração (Algoritmo Force Atlas 2)</h2>

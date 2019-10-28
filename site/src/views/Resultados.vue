@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="Resultados"/>
-    <div class="container mb-5 text-center">
+    <div class="container-fluid mb-5 text-center">
         <b-tabs content-class="mt-3">
         <b-tab title="Imagens" active>
         <h2>Por ano</h2>

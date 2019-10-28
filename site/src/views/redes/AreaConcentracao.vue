@@ -2,7 +2,7 @@
     
     <div>
         <cabecalho titulo="Redes"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
 
             <h2>Rede por Área de Concentracao</h2>
             <object type="image/svg+xml" style="width: 100%" data="redes/Rede por area de concentracao.svg" ref="img">

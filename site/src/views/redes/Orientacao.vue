@@ -2,7 +2,7 @@
     
     <div>
         <cabecalho titulo="Redes"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
 
             <h2>Laços Orientador Orientando</h2>
 

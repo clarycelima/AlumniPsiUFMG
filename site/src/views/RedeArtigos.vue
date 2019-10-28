@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="Redes de artigos"/>
-    <div class="container mb-5">
+    <div class="container-fluid mb-5">
                 <grafo
                   :data="completo"
                   :labels="[0,1,2]"

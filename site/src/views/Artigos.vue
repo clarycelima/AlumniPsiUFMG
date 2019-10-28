@@ -1,7 +1,7 @@
 <template>
     <div>
         <cabecalho titulo="Artigos"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
             <ul class="list-group">
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/artigo-rlars-2019.pdf">
                 ANÁLISE DE REDES NA PRODUÇÃO CIENTÍFICA DA PSICOLOGIA DO BRASIL: aspectos da internacionalização

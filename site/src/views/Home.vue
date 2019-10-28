@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="" descricao-primaria="Produção científica dos egressos da psicologia: Redes de colaboração e domínios científicos" descricao-secundaria="" :conheca="true"/>
-    <div class="home container text-justify">
+    <div class="home container-fluid text-justify">
       
       
       <!--<p><em><Strong>Alumni</Strong></em> é a forma pluralizada de alumnus (egresso, ex-aluno). A palavra tem origem no Latim e tem entre suas acepções a ideia de "filho que é dado a cuidado de outro", referindo-se, em uma interpretação mais romântica, ao indivíduo que é "alimentado com conhecimento". </p>

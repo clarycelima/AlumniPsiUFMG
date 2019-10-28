@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="Dados"/>
-    <div class="container mb-5">
+    <div class="container-fluid mb-5">
       <div class="row">
         <div class="col-9">
           <div class="card">

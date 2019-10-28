@@ -1,7 +1,7 @@
 <template>
   <div>
     <cabecalho titulo="Rede por área de concentração"/>
-    <div class="container mb-5">
+    <div class="container-fluid mb-5">
                 <grafo
                   :data="completo"
                   :labels="['Não Disponível', 'PSO', 'EP', 'DH']"

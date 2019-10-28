@@ -1,7 +1,7 @@
 <template>
     <div>
         <cabecalho titulo="Downloads"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
             <ul class="list-group">
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/downloads/Egressos de Doutorado e Orientadores.docx">Egressos de Doutorado e Orientadores</a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/downloads/Instituições de Colaboração em Minas Gerais.docx">Instituições de Colaboração em Minas Gerais</a></li>

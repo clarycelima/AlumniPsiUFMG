@@ -1,7 +1,7 @@
 <template>
     <div>
         <cabecalho titulo="Dados obtidos através do ScriptLattes"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
                     <div class="row mb-4">
                         <div class="col">
                         

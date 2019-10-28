@@ -1,7 +1,7 @@
 <template>
     <div>
         <cabecalho titulo="Registros de orientações"/>
-        <div class="container mb-4">
+        <div class="container-fluid mb-4">
                     <div class="row mb-4">
                         <div class="col">
                             <b-form-input v-model="busca" type="text" placeholder="Pesquisar..." />
