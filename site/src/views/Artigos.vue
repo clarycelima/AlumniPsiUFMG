@@ -100,7 +100,7 @@
                 Transnacionalização ensino psicologia
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/UFMG_Grupo de Pesquisa Alumini.pdf">
-                UFMG_Grupo de Pesquisa Alumini
+                UFMG Grupo de Pesquisa Alumini
                 </a></li>                
             </ul>
         </div>
