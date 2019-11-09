@@ -19,13 +19,13 @@
                 Bacharel e docencia
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/CAPES_Documento de Área MEDICINA_III_2016.pdf">
-                CAPES_Documento de Área MEDICINA_III_2016
+                CAPES Documento de Área MEDICINA III 2016
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/CNPQ_Grupos de Pesquisa Egressos 2010.pdf">
-                CNPQ_Grupos de Pesquisa Egressos 2010
+                CNPQ Grupos de Pesquisa Egressos 2010
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/CNPQ_Grupos de Pesquisa Egressos.pdf">
-                CNPQ_Grupos de Pesquisa Egressos
+                CNPQ Grupos de Pesquisa Egressos
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Colaboração cientifica.pdf">
                 Colaboração cientifica
@@ -43,10 +43,10 @@
                 Egressos como avaliaçao Administração
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Egressos Doutorado PSI_Lista.pdf">
-                Egressos Doutorado PSI_Lista
+                Egressos Doutorado PSI Lista
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Egressos Mestrado PSI_Lista.pdf">
-                Egressos Mestrado PSI_Lista
+                Egressos Mestrado PSI Lista
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Escritos sobre psicologo no Brasil Livro.pdf">
                 Escritos sobre psicologo no Brasil Livro
@@ -64,7 +64,7 @@
                 Lacunas de competencias egressos psicologia
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Mestres_Doutores_2015_Vs3.pdf">
-                Mestres_Doutores_2015_Vs3
+                Mestres Doutores 2015 Vs3
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Percepçao Egressos mestrado ciencias e saude.pdf">
                 Percepçao Egressos mestrado ciencias e saude
@@ -91,7 +91,7 @@
                 Teses e Dissetações Egressos 03-2017
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Titulados Doutorado_Lista.pdf">
-                Titulados Doutorado_Lista
+                Titulados Doutorado Lista
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Trajetoria de egressos.pdf">
                 Trajetoria de egressos
