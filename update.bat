@@ -1,5 +1,5 @@
 set message=%1
-if "%1"=="" set message="atualizacao"
+if "%1"=="" set message=atualizacao
 git checkout master
 git add .
 git commit -m "%message%"
