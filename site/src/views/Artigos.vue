@@ -37,7 +37,7 @@
                 Construção de conhecimento
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Curso Psicologia Sao Gabriel_Entradas e bandeiras.pdf">
-                Curso Psicologia Sao Gabriel_Entradas e bandeiras
+                Curso Psicologia Sao Gabriel Entradas e bandeiras
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Egressos como avaliaçao Administração.pdf">
                 Egressos como avaliaçao Administração
@@ -55,7 +55,7 @@
                 Formaçao de doutores
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Formaçao Psicologia_Demandas sociais.pdf">
-                Formaçao Psicologia_Demandas sociais
+                Formaçao Psicologia Demandas sociais
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Internacionalizaçao doutorado Psicologia BR e Spain.pdf">
                 Internacionalizaçao doutorado Psicologia BR e Spain
@@ -100,7 +100,7 @@
                 Transnacionalização ensino psicologia
                 </a></li>
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/UFMG_Grupo de Pesquisa Alumini.pdf">
-                UFMG Grupo de Pesquisa Alumini
+                UFMG Grupo de Pesquisa Alumni
                 </a></li>                
             </ul>
         </div>
