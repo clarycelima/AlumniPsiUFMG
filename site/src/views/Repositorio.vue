@@ -1,6 +1,6 @@
 <template>
     <div>
-        <cabecalho titulo="Repositório"/>
+        <cabecalho titulo="Produção Científica"/>
         <div class="container-fluid mb-4">
             <h4 class="mt-5 mb-3 text-center">Link da dissertação no Repositório UFMG</h4>
             <a class="text-center d-block" href="https://repositorio.ufmg.br/browse?type=author&value=Maria+Clarice+Lima+Batista&value_lang=pt_BR">

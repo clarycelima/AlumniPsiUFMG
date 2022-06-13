@@ -1,13 +1,15 @@
 <template>
     <div>
-        <cabecalho titulo="Publicações"/>
+        <cabecalho titulo="Fontes Sugeridas"/>
         <div class="container-fluid mb-4">
+            <!--
             <ul class="list-group">
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/artigo-rlars-2019.pdf">
                 ANÁLISE DE REDES NA PRODUÇÃO CIENTÍFICA DA PSICOLOGIA DO BRASIL: aspectos da internacionalização
                 </a></li>
             </ul>
             <h4 class="mt-5 mb-3 text-center">Fontes Sugeridas</h4>
+            -->
             <ul class="list-group">
                 <li class="list-group-item"><a target="blank" href="/AlumniPsiUFMG/artigos/EGRESSOS/Acompanhamento de egresso.pdf">
                 Acompanhamento de egresso
